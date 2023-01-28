@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/catskull/static/js/main.935cc76e.js",
+    "static/js/787.37c3be2d.chunk.js": "/catskull/static/js/787.37c3be2d.chunk.js",
+    "index.html": "/catskull/index.html",
+    "main.935cc76e.js.map": "/catskull/static/js/main.935cc76e.js.map",
+    "787.37c3be2d.chunk.js.map": "/catskull/static/js/787.37c3be2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.935cc76e.js"
+  ]
+}
